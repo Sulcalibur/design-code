@@ -1,0 +1,22 @@
+{
+  "name": "normalize-stylus",
+  "main": "./normalize.styl",
+  "author": "Shaun Kirk Wong",
+  "ignore": [
+    "package.json",
+    ".gitignore",
+    "component.json",
+    "normalize.css",
+    "test.html"
+  ],
+  "homepage": "https://github.com/skw/normalize.stylus",
+  "_release": "bcc4b57201",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "bcc4b5720160ee5c6e2c174957f2125ff240db47"
+  },
+  "_source": "git://github.com/skw/normalize.stylus.git",
+  "_target": "*",
+  "_originalSource": "normalize-stylus"
+}

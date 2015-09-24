@@ -1,0 +1,26 @@
+{
+  "name": "JekyllWorkflow",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Sulcalibur/design-code",
+  "authors": [
+    "Suleiman Leadbitter <suleiman.leadbitter@gmail.com>"
+  ],
+  "description": "My workflow using Jekyll building on Jade, Stylus and Gulp tasks",
+  "keywords": [
+    "Jekyll",
+    "Gulp",
+    "Stylus",
+    "Jade"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "normalize-stylus": "*"
+  }
+}

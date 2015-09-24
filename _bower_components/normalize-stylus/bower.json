@@ -1,0 +1,13 @@
+{
+  "name": "normalize-stylus",
+  "version": "2.1.2",
+  "main": "./normalize.styl",
+  "author": "Shaun Kirk Wong",
+  "ignore": [
+    "package.json",
+    ".gitignore",
+    "component.json",
+    "normalize.css",
+    "test.html"
+  ]
+}
