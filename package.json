@@ -9,7 +9,7 @@
   "author": "Suleiman Leadbitter",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^6.0.3",
+    "autoprefixer": "^9.7.1",
     "browser-sync": "^2.8.0",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "2.3.1",
