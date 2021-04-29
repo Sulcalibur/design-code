@@ -1,0 +1,15 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: autoprefixer
+    versions:
+    - 10.2.4
+    - 9.8.6
+  - dependency-name: gulp-postcss
+    versions:
+    - 8.0.0
